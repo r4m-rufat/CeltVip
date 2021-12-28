@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/background_blue.xml" value="0.15833333333333333" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/background_bottom_line.xml" value="0.22395833333333334" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/background_red.xml" value="0.290625" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/ic1.xml" value="0.1" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/ic10.xml" value="0.1" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/ic11.xml" value="0.290625" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/ic12.xml" value="0.22407407407407406" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/ic13.xml" value="0.1" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/drawable/ic_back.xml" value="0.290625" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/activity_category_exam_result.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/activity_category_item.xml" value="0.264" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/layout_bottom_navigation_bar.xml" value="0.2" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/layout_category_grid_item.xml" value="0.264" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/layout_exam_item.xml" value="0.264" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/layout_exam_result_failed_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/layout_exam_result_item.xml" value="0.264" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/layout_exam_result_passed_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android Files/CeltTask/app/src/main/res/layout/layout_review_items.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
